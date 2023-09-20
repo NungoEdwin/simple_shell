@@ -1,0 +1,25 @@
+.\" Manpage for ODAM Shell.
+.TH man 1 "25 August 2023" "1.0.0" " Nungo Shell man page"
+
+.SH NAME
+ODAM Shell \- a new Nungo Shell created in C language as an ALX Project.
+
+.SH SYNOPSIS
+.B ./hsh \fR[OPTION]... [FILE]...
+
+.SH DESCRIPTION
+.B ./hsh \fR\- This starts the shell where you can enter commands.
+
+.SH EXEMPLES
+.B ./hsh echo \"ls\" | ./hsh
+
+This executes commands in a non-interactive way
+
+.B in the ./hsh ls -l
+
+.SH BUGS
+No known bugs.
+
+.SH AUTHOR
+.SS Nungo Edwin
+.SS Angela Tare
